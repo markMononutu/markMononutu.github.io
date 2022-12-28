@@ -22,9 +22,10 @@ nav {
 }
 .jumbotron {
   background-image: url("../img/background.webp");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size: cover;
   background-position: 0;
+
   color: #eaeaea;
 }
 
